@@ -7,7 +7,7 @@
   
 ## Final pdf queries and result
 
-[⬇️ Download Case Study PDF](https://github.com/your-username/your-repo/raw/main/report.pdf)
+[⬇️ Download Case Study PDF](https://github.com/santoshom1/sql_sales/raw/main/TARGET_SQL.pdf)
 
 
 ## Actionable Insights and Recommendations:
